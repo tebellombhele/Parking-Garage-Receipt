@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1585750482 source:c:\users\bassie.000\desktop\c++\calculatecharge\main.cpp
+	<iostream>
+	<iomanip>
+
